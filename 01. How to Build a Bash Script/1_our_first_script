@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Author: Aidan Wong
+# Date Created: 6 Feb 2023
+# Last Modified: 6 Feb 2023
+
+# Description:
+# Prints text to screen
+
+# Usage
+# our_first_script_bash
+
+echo "This is my first script"
+
+exit 0
